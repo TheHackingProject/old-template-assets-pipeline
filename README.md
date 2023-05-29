@@ -7,8 +7,6 @@ Old Version pour la ressource Assets Pipeline des cours THP.
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-modern-business/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-modern-business.svg)](https://www.npmjs.com/package/startbootstrap-modern-business)
 [![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-modern-business.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-modern-business)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-modern-business?type=dev)
 
 ## Version Officielle et Mis à jour : 
 
